@@ -1,6 +1,6 @@
 /// <reference path="typings/main.d.ts" />
     
-    $().ready(function() {
+    $(document).ready(function() {
         var data = [
         'Peter',
         'Paul',
@@ -31,5 +31,6 @@
         });
         
         console.log('we are running.');
+        console.log(data);
     
     });    
