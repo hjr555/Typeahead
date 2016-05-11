@@ -1,0 +1,5 @@
+{
+  // This will need commenting out if you are not behind the Creditsafe proxy
+  "proxy": "http://192.168.1.206:3128",
+  "rejectUnauthorized": false
+}
